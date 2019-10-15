@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2de05f9eb40c9f872e3d950b98f9eb7",
+    "revision": "6dbf21129e7c8ed55a13cc1605f09367",
     "url": "/dog_classifier/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dog_classifier/static/js/2.f5db8d94.chunk.js"
   },
   {
-    "revision": "cab13f262c54047c53a7",
-    "url": "/dog_classifier/static/js/main.faad8c4c.chunk.js"
+    "revision": "01a28287c2f84eed89ea",
+    "url": "/dog_classifier/static/js/main.007a84e2.chunk.js"
   },
   {
     "revision": "0389c3966a41b65ba11d",
