@@ -1,12 +1,14 @@
 {
   "name": "dog_classifier",
   "version": "0.1.0",
+  "homepage": "https://mrm8488.github.io/dog_classifier",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.5.0",
     "@material-ui/icons": "^4.4.3",
     "@tensorflow/tfjs": "^1.2.11",
     "blueimp-load-image": "^2.24.0",
+    "gh-pages": "^2.1.1",
     "ndarray": "^1.0.18",
     "ndarray-ops": "^1.2.2",
     "onnxjs": "^0.1.7",
@@ -19,7 +21,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
