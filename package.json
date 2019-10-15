@@ -2,7 +2,7 @@
   "name": "dog_classifier",
   "version": "0.1.0",
   "homepage": "https://mrm8488.github.io/dog_classifier",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.5.0",
     "@material-ui/icons": "^4.4.3",
