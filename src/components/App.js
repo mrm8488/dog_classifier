@@ -123,7 +123,7 @@ function App() {
               Rather, it is an end-to-end example that shows how to train
               machine learning models and run them in the browser. If you want
               to learn more, check out the{" "}
-              <Link to="https://github.com/davidpfahler/react-ml-app">
+              <Link to="https://github.com/mrm8488/dog_classifier">
                 GitHub repository
               </Link>
               .
