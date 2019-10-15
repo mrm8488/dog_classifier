@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/dog_classifier/static/js/main.faad8c4c.chunk.js",
+    "main.js.map": "/dog_classifier/static/js/main.faad8c4c.chunk.js.map",
+    "runtime-main.js": "/dog_classifier/static/js/runtime-main.d7b8b109.js",
+    "runtime-main.js.map": "/dog_classifier/static/js/runtime-main.d7b8b109.js.map",
+    "static/js/2.f5db8d94.chunk.js": "/dog_classifier/static/js/2.f5db8d94.chunk.js",
+    "static/js/2.f5db8d94.chunk.js.map": "/dog_classifier/static/js/2.f5db8d94.chunk.js.map",
+    "index.html": "/dog_classifier/index.html",
+    "precache-manifest.e11ba25ea10792b1daa56c71e49ee7ab.js": "/dog_classifier/precache-manifest.e11ba25ea10792b1daa56c71e49ee7ab.js",
+    "service-worker.js": "/dog_classifier/service-worker.js",
+    "static/media/dogs-resnet18.onnx": "/dog_classifier/static/media/dogs-resnet18.e15a2861.onnx"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7b8b109.js",
+    "static/js/2.f5db8d94.chunk.js",
+    "static/js/main.faad8c4c.chunk.js"
+  ]
+}
